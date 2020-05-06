@@ -13,8 +13,8 @@
 </rdf:RDF></xenoData></teiHeader>
     <text>
         <body>
-            <pb facs="https://live.staticflickr.com/1129/632255233_213684641e_o.jpg" n="1"/><div type="letter"><ab>July 7, 1938 </ab><ab>Miss Mary V. Ford</ab>
-                <ab>Searcy</ab>
+            <pb facs="https://live.staticflickr.com/1129/632255233_213684641e_o.jpg" n="1"/><div type="letter"><opener><dateline><date when="1938-06-07">July 7, 1938 </date></dateline><persName>Miss Mary V. Ford</persName><address>Searcy</address></opener>
+                
                 <ab>Arkansas</ab>
 
                 <ab>Dear Miss Ford </ab>
