@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader><fileDesc>
             <titleStmt>
-                <title>Disney rejection letter</title>
+                <title>Disney rejection letter, 1938</title>
             </titleStmt>
             <publicationStmt>
                 <p/>
@@ -13,12 +13,7 @@
 </rdf:RDF></xenoData></teiHeader>
     <text>
         <body>
-            <pb facs="https://live.staticflickr.com/1129/632255233_213684641e_o.jpg" n="1"/><div type="letter">
-                <ab> Disney rejection letter to women, 1938 </ab>
-
-                <ab> 21.10.35 </ab>
-
-                <ab>Miss Mary V. Ford</ab>
+            <pb facs="https://live.staticflickr.com/1129/632255233_213684641e_o.jpg" n="1"/><div type="letter"><ab>July 7, 1938 </ab><ab>Miss Mary V. Ford</ab>
                 <ab>Searcy</ab>
                 <ab>Arkansas</ab>
 
